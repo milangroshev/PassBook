@@ -183,11 +183,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\milangro\\source\\repos\\PassBook\\Diagnostics\\Diagnostics.csproj",
+      "projectUniqueName": "C:\\Users\\milangro\\Documents\\GitHub\\PassBook\\Diagnostics\\Diagnostics.csproj",
       "projectName": "Diagnostics",
-      "projectPath": "C:\\Users\\milangro\\source\\repos\\PassBook\\Diagnostics\\Diagnostics.csproj",
+      "projectPath": "C:\\Users\\milangro\\Documents\\GitHub\\PassBook\\Diagnostics\\Diagnostics.csproj",
       "packagesPath": "C:\\Users\\milangro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\milangro\\source\\repos\\PassBook\\Diagnostics\\obj\\",
+      "outputPath": "C:\\Users\\milangro\\Documents\\GitHub\\PassBook\\Diagnostics\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

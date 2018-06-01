@@ -6,3 +6,12 @@ C:\Users\milangro\source\repos\PassBook\Diagnostics\obj\Debug\netstandard2.0\Dia
 C:\Users\milangro\source\repos\PassBook\Diagnostics\obj\Debug\netstandard2.0\Diagnostics.AssemblyInfo.cs
 C:\Users\milangro\source\repos\PassBook\Diagnostics\obj\Debug\netstandard2.0\Diagnostics.dll
 C:\Users\milangro\source\repos\PassBook\Diagnostics\obj\Debug\netstandard2.0\Diagnostics.pdb
+C:\Users\milangro\Documents\GitHub\PassBook\Diagnostics\bin\Debug\netstandard2.0\Diagnostics.deps.json
+C:\Users\milangro\Documents\GitHub\PassBook\Diagnostics\bin\Debug\netstandard2.0\Diagnostics.dll
+C:\Users\milangro\Documents\GitHub\PassBook\Diagnostics\bin\Debug\netstandard2.0\Diagnostics.pdb
+C:\Users\milangro\Documents\GitHub\PassBook\Diagnostics\obj\Debug\netstandard2.0\Diagnostics.csprojAssemblyReference.cache
+C:\Users\milangro\Documents\GitHub\PassBook\Diagnostics\obj\Debug\netstandard2.0\Diagnostics.csproj.CoreCompileInputs.cache
+C:\Users\milangro\Documents\GitHub\PassBook\Diagnostics\obj\Debug\netstandard2.0\Diagnostics.AssemblyInfoInputs.cache
+C:\Users\milangro\Documents\GitHub\PassBook\Diagnostics\obj\Debug\netstandard2.0\Diagnostics.AssemblyInfo.cs
+C:\Users\milangro\Documents\GitHub\PassBook\Diagnostics\obj\Debug\netstandard2.0\Diagnostics.dll
+C:\Users\milangro\Documents\GitHub\PassBook\Diagnostics\obj\Debug\netstandard2.0\Diagnostics.pdb

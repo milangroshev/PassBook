@@ -35,5 +35,38 @@ namespace Diagnostics
             Console.ResetColor();
 
         }
+
+        public static void PrintWarningMessage(string msg)
+        {
+            StringBuilder _sb = new StringBuilder();
+
+            Console.ForegroundColor = ConsoleColor.DarkYellow;
+            _sb.AppendLine();
+            _sb.AppendLine(msg);
+            _sb.AppendLine("===================================================================");
+
+            Console.WriteLine(_sb);
+
+            Console.ResetColor();
+
+        }
+        public static void PrintUsernameConditionsMessage()
+        {
+            StringBuilder _sb = new StringBuilder();
+
+            Console.ForegroundColor = ConsoleColor.Green;
+            _sb.AppendLine("Username conditions:");
+            _sb.AppendLine("===================================================================");
+            _sb.AppendLine("(*) Must be 1 to 24 character in length");
+            _sb.AppendLine("(*) Must start with letter a-zA-Z");
+            _sb.AppendLine(@"(*) May contain letters, numbers or '.','-' or '_'");
+            _sb.AppendLine(@"(*) Must not end in '.','-','._' or '-_' ");
+            _sb.AppendLine(" ===================================================================");
+
+            Console.WriteLine(_sb);
+
+            Console.ResetColor();
+
+        }
     }
 }

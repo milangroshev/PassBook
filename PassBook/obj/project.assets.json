@@ -686,11 +686,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\milangro\\source\\repos\\PassBook\\PassBook\\PassBook.csproj",
+      "projectUniqueName": "C:\\Users\\milangro\\Documents\\GitHub\\PassBook\\PassBook\\PassBook.csproj",
       "projectName": "PassBook",
-      "projectPath": "C:\\Users\\milangro\\source\\repos\\PassBook\\PassBook\\PassBook.csproj",
+      "projectPath": "C:\\Users\\milangro\\Documents\\GitHub\\PassBook\\PassBook\\PassBook.csproj",
       "packagesPath": "C:\\Users\\milangro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\milangro\\source\\repos\\PassBook\\PassBook\\obj\\",
+      "outputPath": "C:\\Users\\milangro\\Documents\\GitHub\\PassBook\\PassBook\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -709,8 +709,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\milangro\\source\\repos\\PassBook\\Diagnostics\\Diagnostics.csproj": {
-              "projectPath": "C:\\Users\\milangro\\source\\repos\\PassBook\\Diagnostics\\Diagnostics.csproj"
+            "C:\\Users\\milangro\\Documents\\GitHub\\PassBook\\Diagnostics\\Diagnostics.csproj": {
+              "projectPath": "C:\\Users\\milangro\\Documents\\GitHub\\PassBook\\Diagnostics\\Diagnostics.csproj"
             }
           }
         }

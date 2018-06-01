@@ -12,3 +12,17 @@ C:\Users\milangro\source\repos\PassBook\PassBook\obj\Debug\netcoreapp2.0\PassBoo
 C:\Users\milangro\source\repos\PassBook\PassBook\bin\Debug\netcoreapp2.0\Diagnostics.dll
 C:\Users\milangro\source\repos\PassBook\PassBook\bin\Debug\netcoreapp2.0\Diagnostics.pdb
 C:\Users\milangro\source\repos\PassBook\PassBook\obj\Debug\netcoreapp2.0\PassBook.csproj.CopyComplete
+C:\Users\milangro\Documents\GitHub\PassBook\PassBook\bin\Debug\netcoreapp2.0\PassBook.deps.json
+C:\Users\milangro\Documents\GitHub\PassBook\PassBook\bin\Debug\netcoreapp2.0\PassBook.runtimeconfig.json
+C:\Users\milangro\Documents\GitHub\PassBook\PassBook\bin\Debug\netcoreapp2.0\PassBook.runtimeconfig.dev.json
+C:\Users\milangro\Documents\GitHub\PassBook\PassBook\bin\Debug\netcoreapp2.0\PassBook.dll
+C:\Users\milangro\Documents\GitHub\PassBook\PassBook\bin\Debug\netcoreapp2.0\PassBook.pdb
+C:\Users\milangro\Documents\GitHub\PassBook\PassBook\bin\Debug\netcoreapp2.0\Diagnostics.dll
+C:\Users\milangro\Documents\GitHub\PassBook\PassBook\bin\Debug\netcoreapp2.0\Diagnostics.pdb
+C:\Users\milangro\Documents\GitHub\PassBook\PassBook\obj\Debug\netcoreapp2.0\PassBook.csprojAssemblyReference.cache
+C:\Users\milangro\Documents\GitHub\PassBook\PassBook\obj\Debug\netcoreapp2.0\PassBook.csproj.CoreCompileInputs.cache
+C:\Users\milangro\Documents\GitHub\PassBook\PassBook\obj\Debug\netcoreapp2.0\PassBook.AssemblyInfoInputs.cache
+C:\Users\milangro\Documents\GitHub\PassBook\PassBook\obj\Debug\netcoreapp2.0\PassBook.AssemblyInfo.cs
+C:\Users\milangro\Documents\GitHub\PassBook\PassBook\obj\Debug\netcoreapp2.0\PassBook.csproj.CopyComplete
+C:\Users\milangro\Documents\GitHub\PassBook\PassBook\obj\Debug\netcoreapp2.0\PassBook.dll
+C:\Users\milangro\Documents\GitHub\PassBook\PassBook\obj\Debug\netcoreapp2.0\PassBook.pdb

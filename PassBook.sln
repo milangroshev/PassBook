@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2000
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassBook", "PassBook\PassBook.csproj", "{13905D04-CBCE-48E6-B210-E6D324161EF3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PassBook", "PassBook\PassBook.csproj", "{13905D04-CBCE-48E6-B210-E6D324161EF3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diagnostics", "Diagnostics\Diagnostics.csproj", "{4200AA0A-B4F7-4FF1-854F-C407EE9E9617}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Diagnostics", "Diagnostics\Diagnostics.csproj", "{4200AA0A-B4F7-4FF1-854F-C407EE9E9617}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
